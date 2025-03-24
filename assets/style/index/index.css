@@ -220,7 +220,7 @@ button:hover{
   .drop-I{
   transition: transform ease 1s;
   }
-  .drop-container:hover{
+  .drop-container:hover,.drop-container:active{
     max-height: 300px;
   }
   .drop-container:hover .drop-I{
